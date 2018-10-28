@@ -3,5 +3,4 @@ solution: ChromebookGUI/ChromebookGUI.sln
 mono: none
 dotnet: 2.1.4
 script:
-  - nuget restore
   - dotnet restore
